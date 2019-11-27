@@ -1,6 +1,37 @@
 # BadBoyFrequencyAissgnment3
-Assignment 3: Lyric Frequency Project Red Velvet - Bad Boy  
-Red Velvet - Bad Boy Lyrics English Version 
+Assignment 3: Lyric Frequency Project Red Velvet - Bad Boy 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Song: Red Velvet - Bad Boy Lyrics English Version 
 
 Hey
 Who dat who dat who dat is (Woo)
