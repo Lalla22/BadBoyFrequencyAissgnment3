@@ -11,4 +11,4 @@ program uses Hashmap
 
 program is not case senstive 
 
-programs comes with code, song file of lyrics that is called redvelvetbad.txt, and output file. 
+program comes with code, song file of lyrics that is called redvelvetbad.txt, and output file. 
