@@ -13,4 +13,6 @@ program is not case senstive
 
 program comes with code, song file of lyrics that is called redvelvetbad.txt, and output file. 
 
-#BadBoy Website Assignment 4
+BadBoy Website - Assignment #4
+
+Website Built from using Notes App
