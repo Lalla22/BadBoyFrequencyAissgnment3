@@ -15,4 +15,6 @@ program comes with code, song file of lyrics that is called redvelvetbad.txt, an
 
 BadBoy Website - Assignment #4
 
-Website Built from using Notes App
+Website Built with html code in notes application.
+
+Website Files are: both word clouds, red velvet website project which is html code, and all three word three documents. The rest of the files are from Assignment 3. 
